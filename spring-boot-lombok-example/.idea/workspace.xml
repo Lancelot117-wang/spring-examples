@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1179223b-f25b-4dfb-8363-1c8231b3e22e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-lombok-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lance/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lance/entity/UserDO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/lance/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/lance/entity/UserDO.class" afterDir="false" />
-    </list>
+    <list default="true" id="1179223b-f25b-4dfb-8363-1c8231b3e22e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641479649605</updated>
-      <workItem from="1641479651391" duration="1222000" />
+      <workItem from="1641479651391" duration="1251000" />
     </task>
     <servers />
   </component>
