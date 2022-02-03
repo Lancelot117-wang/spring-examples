@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity5">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+Username: <span sec:authentication="name"></span><br/>
+Password: <span sec:authentication="principal.username"></span><br/>
+Credentials: <span sec:authentication="credentials"></span><br/>
+Authorities: <span sec:authentication="authorities"></span><br/>
+Client-IP: <span sec:authentication="details.remoteAddress"></span><br/>
+Session-ID: <span sec:authentication="details.sessionId"></span><br/>
+</body>
+</html>
